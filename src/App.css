@@ -28,6 +28,7 @@
   /*border: solid 2px #999999;*/
   padding: 50px;
   background-color: #61dafb;
+  transition: all 800ms cubic-bezier(0, 1, 1, 1);
 }
 
 .item2{
@@ -35,6 +36,7 @@
   /*border: solid 2px #999999;*/
   padding: 50px;
   background-color: chocolate;
+  transition: all 800ms cubic-bezier(0, 1, 1, 1);
 }
 
 .item-title {

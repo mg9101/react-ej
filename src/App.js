@@ -43,8 +43,10 @@ class App extends React.Component{
       if ((j % this.state.columns) === 0 && j !== 0){
         matrix.push(itemRow);
         itemRow = [];
+        resultItem.img = "";
         itemRow.push(resultItem);
       }else {
+        resultItem.img = "";
         itemRow.push(resultItem);
       }
     });
