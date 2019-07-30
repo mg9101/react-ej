@@ -23,6 +23,28 @@
   color: #61dafb;
 }
 
+.item{
+  width: 350px;
+  /*border: solid 2px #999999;*/
+  padding: 50px;
+  background-color: #61dafb;
+}
+
+.item2{
+  width: 350px;
+  /*border: solid 2px #999999;*/
+  padding: 50px;
+  background-color: chocolate;
+}
+
+.item-title {
+  text-align: center;
+}
+
+.item-img {
+
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
